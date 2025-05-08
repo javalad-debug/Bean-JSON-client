@@ -1,4 +1,6 @@
-# Simple SpringBoot RESTful API, that returns a java bean as a JSON to the client
+# Create Spring Boot REST API That Returns JSON
+
+To create a simple SpringBoot RESTful API, that returns a java bean as a JSON to the client
 
 ## First Steps
 
